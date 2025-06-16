@@ -13,10 +13,8 @@ The project aims to perform the following tasks:
 4. **Orchestration**: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
 ![image](https://github.com/user-attachments/assets/51a6f0e3-ea78-4d85-a41f-3fa5bee8ba12)
-![image](https://github.com/user-attachments/assets/51a6f0e3-ea78-4d85-a41f-3fa5bee8ba12)
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/c790188a-58fa-4e78-9da5-1f12556acce4)
 ![image](https://github.com/user-attachments/assets/c790188a-58fa-4e78-9da5-1f12556acce4)
 
 
